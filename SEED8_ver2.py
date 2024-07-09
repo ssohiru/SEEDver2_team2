@@ -3,7 +3,7 @@ import pandas as pd
 
 def standard_function(subject_selection, category_selection, grade_selection):
     # Load the provided Excel file
-    file_path = '2022_특수교육교육과정(기본+공통)_성취기준_목록.xlsx'
+    file_path = 'data/2022_특수교육교육과정(기본+공통)_성취기준_목록.xlsx'
 
     try:
         # Load the Excel file from the specified path
