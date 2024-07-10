@@ -23,7 +23,7 @@ def main():
         standard.standard_function()
     
     elif choice == "교사교육과정 및 학급교육과정 개발 도우미":
-        SEED8_ver2.search_function()
+        SEED8_ver2.standard_function
 
 if __name__ == '__main__':
     main()
