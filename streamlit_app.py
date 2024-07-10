@@ -2,6 +2,8 @@ import streamlit as st
 import standard
 import SEED8_ver2
 
+st.write(dir(SEED8_ver2))
+
 st.set_page_config(page_title="2022 교사교육과정 및 학급교육과정 개발 도우미", layout="wide")
 
 def main():
