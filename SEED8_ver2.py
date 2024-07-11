@@ -112,7 +112,7 @@ def seed_function():
         st.write("생성된 텍스트를 Ctrl+C 키로 복사해 다음 페이지로 이동하세요.")
 
         # 챗봇 URL 제공
-        st.markdown("[ChatGPT 챗봇으로 이동](https://chatgpt.com/g/g-TtbM3264K-gaenyeomgiban-gyoyuggwajeong-seolgye-dijaineo-caesbos-feat-edyutekeu)")
+        st.markdown("[ChatGPT 챗봇으로 이동](https://chatgpt.com/g/g-u4h9tW1bd-gaenyeomgiban-gyoyuggwajeong-seolgye-dijaineo-caesbos-feat-edyutekeu-beojeon2-teugsugyoyugyong)")
 
 # 앱 실행
 seed_function()
