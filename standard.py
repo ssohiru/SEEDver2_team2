@@ -1,6 +1,3 @@
-import streamlit as st
-import pandas as pd
-
 # 엑셀 파일 불러오기
 xls = pd.ExcelFile('2022_특수교육교육과정(기본+공통)_성취기준_목록.xlsx')
 
